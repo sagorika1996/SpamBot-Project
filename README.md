@@ -15,3 +15,6 @@ To analyze the mouse movement data, we define the following features:
 10. Drag Time: Time spent dragging the mouse
 11. MeanX: Mean value of the x-coordinate
 12. MeanY: Mean value of the y-coordinate
+
+
+Dataset:[Link](https://github.com/balabit/Mouse-Dynamics-Challenge/tree/master/training_files/user7)
